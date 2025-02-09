@@ -71,4 +71,3 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Made with ❤️ by [Ajay Mondal](https://todo-v405.vercel.app/)
